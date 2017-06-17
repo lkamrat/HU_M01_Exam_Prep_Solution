@@ -11,7 +11,7 @@ namespace HU_M01_Exam_Prep
         static void Main(string[] args)
         {
             //// Q1 - Print 5 numbers average 
-            #WOW
+            
             //double arrayASum = 0;
             //double[] numbersArrayA = new double[5];
             //for (int i = 0; i < numbersArrayA.Length; i++)
